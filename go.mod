@@ -1,4 +1,4 @@
-module github.com/datumforge/echo-prometheus/v5
+module github.com/datum-cloud/echo-prometheus
 
 go 1.21.3
 
